@@ -34,8 +34,8 @@ body{
 
 img{
 
-    width:55vw;
-    max-width:230px;
+    width:85vw;
+    max-width:260px;
 
     border-radius:50%;
 
@@ -109,9 +109,9 @@ a:active{
 
 .footer{
 
-    margin-top:25px;
+    margin-top:35px;
 
-    font-size:12px;
+    font-size:22px;
 
     color:#999;
 
