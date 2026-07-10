@@ -1,3 +1,6 @@
+function saveMyContact() {
+    console.log("버튼이 클릭되었습니다!"); // 이 줄 추가
+    const name = "장학생";
 // contact.js
 function saveMyContact() {
     const name = "장학생";
